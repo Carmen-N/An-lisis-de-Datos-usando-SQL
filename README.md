@@ -9,6 +9,8 @@ SQL es un lenguaje conceptual para trabajar con datos almacenados en bases de da
 
 El componente más importante de la base de datos son sus tablas, que es donde se almacenan todos los datos. Por lo general, los datos se dividen en muchas tablas, y no se almacenan todos en un solo lugar (por lo que el diseño de la estructura de datos es muy importante). La mayor parte de este script manejará cómo trabajar con tablas. Aparte de las tablas, hay otros conceptos/características muy útiles que no cubriremos aquí:
 
--creación de tablas
--insertar / actualizar datos en la BD
--funciones - obtiene un valor como entrada, y devuelve la manipulación de ese valor (por ejemplo función que elimina espacios en blanco)
+*creación de tablas
+
+*insertar / actualizar datos en la BD
+
+*funciones - obtiene un valor como entrada, y devuelve la manipulación de ese valor (por ejemplo función que elimina espacios en blanco)
