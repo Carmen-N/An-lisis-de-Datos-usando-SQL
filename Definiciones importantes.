@@ -1,0 +1,54 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOghoQ6vGhNnpHTVpioRUAp",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Carmen-N/Analisis-de-Datos-usando-SQL/blob/master/Definiciones%20importantes.\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "id": "sUTQUUk2GZkp"
+      },
+      "outputs": [],
+      "source": [
+        "import numpy as np # linear algebra\n",
+        "import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)\n",
+        "import sqlite3\n",
+        "import matplotlib.pyplot as plt"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Los archivos de datos de entrada están disponibles en el directorio \"../input/\"\n",
+        "#  Por ejemplo, ejecutando esto (haciendo clic en ejecutar o pulsando Shift+Enter) se listarán los archivos del directorio de entrada"
+      ],
+      "metadata": {
+        "id": "AC00Ip-FHKtD"
+      }
+    }
+  ]
+}
